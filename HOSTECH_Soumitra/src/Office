@@ -3,5 +3,6 @@ public class Office
 public static void main (String [] args)
 {
 System.out.println("Office class is Created");
+System.out.println("New Office");
 }
 }

@@ -16,6 +16,7 @@ public class TC01
 		start.log(LogStatus.FAIL, "TC IS FAIL");
 		report.endTest(start);
 		report.flush();
+		System.out.println("Report is generated");
 	}
 
 }
